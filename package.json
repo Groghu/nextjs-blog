@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "gray-matter": "^4.0.3",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1"
+  },
+  "name": "nextjs-blog",
+  "description": "This is a starter template for [Learn Next.js](https://nextjs.org/learn).#\u0000 \u0000n\u0000e\u0000x\u0000t\u0000j\u0000s\u0000-\u0000b\u0000l\u0000o\u0000g\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "ISC"
+}
